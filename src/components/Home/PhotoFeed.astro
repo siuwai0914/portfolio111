@@ -5,22 +5,7 @@ import CarouselItem from "../CarouselItem.astro";
 import PhotoItems from "./PhotoItems.astro";
 ---
 
-<Carousel spacing="tight">
-  <PhotoItems server:defer>
-    <Fragment slot="fallback">
-      {
-        Array.from({ length: 8 }).map(() => (
-          <CarouselItem>
-            <div class="skeleton" />
-          </CarouselItem>
-        ))
-      }
-    </Fragment>
-  </PhotoItems>
-  <CarouselButton url="https://glass.photo/evadecker"
-    >See all photos</CarouselButton
-  >
-</Carousel>
+
 
 <style>
   .skeleton {

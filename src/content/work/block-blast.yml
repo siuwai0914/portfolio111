@@ -1,0 +1,9 @@
+title: Block Blast
+description: A tetris style game based off of the popular mobile game on a chrome extension.
+year: 2025
+url: https://belebelebelebe.github.io/blockblast/
+urlText: View on GitHub
+category: javascript games
+img:
+  src: ./blockblast.png
+  alt: A horizontal masonry grid of nature photos on a black background.

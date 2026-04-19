@@ -1,0 +1,8 @@
+title: Space Invaders
+description: the classic arcade game, coded with python
+year: 2026
+url: https://bellele.itch.io/space-invaders
+category: python games
+img:
+  src: ./spaceinvader.png
+  alt: A console window is open in Chrome, displaying the text, "You find yourself standing in the center of a cul-de-sac. The sun tempts the horizon. The air is unmoving."

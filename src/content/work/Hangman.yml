@@ -1,0 +1,8 @@
+title: Hangman Game
+description: A solo or 2-player hangman game using Javascript.
+year: 2025
+url: https://belebelebelebe.github.io/hangman/
+category: javascript projects
+img:
+  src: ./hangman.png
+  alt: The word "Sheets" in Times New Roman beneath a pink lotus flower.

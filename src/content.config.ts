@@ -91,9 +91,9 @@ export const collections = {
       }),
   }),
 
-  photos: defineCollection({
-    loader: feedLoader({
-      url: "https://glass.photo/evadecker/rss",
-    }),
-  }),
+  // photos: defineCollection({
+  //   loader: feedLoader({
+  //     url: "https://glass.photo/evadecker/rss",
+  //   }),
+  // }),
 };
