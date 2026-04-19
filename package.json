@@ -71,14 +71,19 @@
     "typescript": "^5.9.3"
   },
   "optionalDependencies": {
-    "@libsql/win32-x64-msvc": "latest"
+    "@libsql/win32-x64-msvc": "latest",
+    "@rollup/rollup-linux-x64-gnu": "^4.59.0"
   },
 
   "pnpm": {
     "supportedArchitectures": {
-      "os": ["win32"],
-      "cpu": ["x64", "arm64"]
+      "os": [
+        "win32"
+      ],
+      "cpu": [
+        "x64",
+        "arm64"
+      ]
     }
   }
-
 }
